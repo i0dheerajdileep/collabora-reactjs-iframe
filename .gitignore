@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# production build
+build/
+dist/
+
+# logs
+*.log
+
+# dotenv environment variables file
+.env
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# npm package manager
+npm-debug.log
+*.lock
